@@ -12,8 +12,7 @@ print(type(z))
 x = True
 print(type(x))
 
-x = {"apple", "banana", "cherry"}
-print(type(x))
+
 
 x = ["apple", "banana", "cherry"]
 print(type(x))
